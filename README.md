@@ -1,21 +1,7 @@
 # layout-reodering
 
-## Project setup
-```
-npm install
-```
+This is a simple responsive layout created in order to maser flexbox and vuejs.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## helpful links:
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
+* [Live version of the APP](https://silly-bhaskara-7344c7.netlify.com/)
